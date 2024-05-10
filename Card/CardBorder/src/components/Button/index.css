@@ -1,0 +1,13 @@
+.btn{
+    color: orange;
+    background-color: transparent;
+    border: 1px solid orange;
+    transition: all 1s;
+    
+    
+}   
+.btn:hover{
+    background-color: orange;
+    color: white;
+
+}
